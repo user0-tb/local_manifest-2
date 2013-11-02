@@ -8,4 +8,5 @@
   <project name="AOSP-i9300-builds/android_device_samsung_i9300" path="device/samsung/i9300" remote="github" revision="cm-10.2" />
   <project name="koush/Superuser" path="external/koush/Superuser" remote="github" revision="master" />
   <project name="koush/Widgets" path="external/koush/Widgets" remote="github" revision="master" />
+  <project name="trevd/android_external_busybox" path="external/busybox" remote="github" revision="kitkat" />
 </manifest>
